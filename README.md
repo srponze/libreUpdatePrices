@@ -5,7 +5,7 @@ This tool automates the process of updating asset prices in LibreOffice spreadsh
 ## Installation
 1. Clone this repository or download the ZIP file and extract it:
    ```bash
-   git clone https://github.com/srponze/libre_update_prices.git
+   git clone https://github.com/srponze/libreUpdatePrices.git
    ```
 2. Install the required dependencies:
    ```bash
