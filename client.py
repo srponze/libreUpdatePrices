@@ -1,5 +1,5 @@
-from libre_update_prices.libreOffice import LibreOffice
-from libre_update_prices.yfinance import YFinance
+from libreUpdatePrices.libreOffice import LibreOffice
+from libreUpdatePrices.yfinance import YFinance
 
 libreOffice = LibreOffice("/path/to/file/.ods")
 yFinance = YFinance()
